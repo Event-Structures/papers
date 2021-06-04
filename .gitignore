@@ -1,0 +1,11 @@
+# tex/papers
+
+*.pdf
+*.log
+*.out
+*.fls
+*.*latexmk
+*.bbl
+*.blg
+*.*.gz
+*.tex.bak
