@@ -1,2 +1,2 @@
-# Papers on Mechanized Theory of Event Structures
+## Papers on Mechanized Theory of Event Structures
 
